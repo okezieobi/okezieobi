@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects using ReactJS, ExpressJS, MongoDB, PostgreSQL
 - 🤔 I’m looking for help with securing a fullstack or backend or frontend gig
 - 💬 Ask me about anything javascript
-- 📫 How to reach me: obiedereokezie@gmail.com
+- 📫 How to reach me ? tweet at me 
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: none for now ... I think
