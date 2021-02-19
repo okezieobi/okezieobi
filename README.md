@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on at least one pinned repo below, working on a proper portfolio.
-- 🌱 I’m currently learning at my own varying pace via avaliable developer coomunity programmes.
+- 🌱 I’m currently learning at my own pace via avaliable learning programmes of several developer communities I belong to.
 - 👯 I’m looking to collaborate on projects using HTML, CSS, Javascript, ReactJS, ExpressJS, MongoDB, PostgreSQL
-- 🤔 I’m looking for help with securing a fullstack or backend or frontend gig
+- 🤔 I’m looking for help with securing a fullstack or backend or frontend gig :pensive:
 - 💬 Ask me about anything javascript
 - 📫 How to reach me ? tweet at me, my @ is here ... somewhere :stuck_out_tongue_winking_eye:
 - 😄 Pronouns: Him/His
