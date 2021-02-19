@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on at least one pinned project below.
+- 🔭 I’m currently working on at least one pinned project below, working on a proper portfolio.
 - 🌱 I’m currently learning at my own varying pace.
 - 👯 I’m looking to collaborate on projects using ReactJS, ExpressJS, MongoDB, PostgreSQL
 - 🤔 I’m looking for help with securing a fullstack or backend or frontend gig
