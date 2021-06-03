@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Currently working on at least one pinned repo below.
+- 🔭 Have a full time backend nodejs gig, stil work on at least one pinned repo below once in a while.
 - 🌱 Learning at my own pace via avaliable learning programmes of several developer communities I belong to.
 - 👯 Looking to collaborate on projects using HTML, CSS, Javascript, ReactJS, ExpressJS, MongoDB, PostgreSQL
 - 🤔 Also looking for help with securing a fullstack or backend or frontend gig :pensive:
