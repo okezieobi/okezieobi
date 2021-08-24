@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Have a full time backend nodejs gig now and working on least one pinned repo below (once in a while).
+- 🔭 Currently working as a full time backend nodejs developer, also I sometimes tinker with at least one pinned repo below.
 - 🌱 Learning at my own pace via avaliable learning programmes of several developer communities I belong to.
 - 👯 Looking to collaborate on projects using HTML, CSS, Javascript, ReactJS, ExpressJS, MongoDB, PostgreSQL
-- 🤔 Also looking for help with securing a fullstack or backend or frontend gig :pensive:
+- 🤔 Also open to other fullstack or backend or frontend opportunities :pensive:
 - 💬 Ask me about anything javascript
 - 📫 How to reach me ? tweet at me, my @ is here ... somewhere :stuck_out_tongue_winking_eye:
 - 😄 Pronouns: Him/His
