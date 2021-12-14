@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - :file_folder: Documentating my professional journey as a software developer at https://medium.com/@obiedereokezie
 - 🌱 Learning at my own pace via avaliable learning programmes of several developer communities I belong to.
 - 👯 Looking to collaborate on projects using HTML, CSS, Javascript, ReactJS, ExpressJS, MongoDB, PostgreSQL
-- 🤔 Also open to other fullstack or backend or frontend opportunities :pensive:
+- 🤔 Also open to other fullstack or backend or frontend opportunities :pensive: my resume can be found here https://docs.google.com/document/d/1usfxtBk_5-W60KBcO6kVwUDZ9xvFk0FDK7IyeQwZG7I/edit?usp=sharing 
 - 💬 Ask me about anything javascript
 - 📫 How to reach me ? tweet at me, shoot me an email :stuck_out_tongue_winking_eye:
 - 😄 Pronouns: Him/His
