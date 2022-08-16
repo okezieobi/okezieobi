@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on projects using HTML, CSS, Javascript, ReactJS, ExpressJS, MongoDB, PostgreSQL
 - 😄 Also open to other fullstack or backend or frontend opportunities 😄
 - 💬 Ask me about anything javascript
-- 📫 How to reach me ? tweet at me, shoot me an email :stuck_out_tongue_winking_eye:
+- 📫 How to reach me ? tweet at me :stuck_out_tongue_winking_eye:
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: none for now ... I think :grin:
