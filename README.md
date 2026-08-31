@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Currently working as a full-time backend Node.js engineering lead, also I sometimes tinker with at least one pinned repo below.
-- Led the development of apis for https://www.applyquick.ai/ and https://renndaar.com/
+- Led the development of apis for https://www.cloutra.com
 - :file_folder: Documenting my professional journey as a software developer at https://medium.com/@obiedereokezie
 - 🌱 Learning at my own pace via available learning programs of several developer communities I belong to.
 - 👯 Looking to collaborate on projects using HTML, CSS, Javascript, ReactJS, ExpressJS, MongoDB, PostgreSQL
