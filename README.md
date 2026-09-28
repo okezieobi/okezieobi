@@ -1,18 +1,12 @@
-### Hi there 👋 I am
+### Hi there 👋 I'm Frank
 
-<!--
-**okezieobi/okezieobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer specializing in high-concurrency services, background processing pipelines, and resilient API architecture using **Go**, **TypeScript/Node.js**, **Java**, **PostgreSQL**, and **Redis**.
 
-Here are some ideas to get you started:
--->
-
-- 🔭 Currently working as a full-time backend engineering lead, also I sometimes tinker with at least one pinned repo below.
-- Led the development of apis for https://www.cloutra.com, https://www.pawa360.africa, https://www.applyquick.ai
-- :file_folder: Documenting my professional journey as a software developer at https://www.linkedin.com/in/frank-okezie-obiedere/
-- 🌱 Learning at my own pace via available learning programs of several developer communities I belong to.
-- 👯 Looking to collaborate on projects using Typescript, Go, Java, MongoDB, PostgreSQL
-- 😄 Also open to backend opportunities 😄
-- 💬 Ask me about anything shipping at scale with redundancies
-- 📫 How to reach me? tweet at me :stuck_out_tongue_winking_eye:
-- 😄 Pronouns: Him/His
-- ⚡ Fun fact: none for now ... I think :grin:
+- 🔭 **Current Focus:** Building fault-tolerant distributed pipelines, webhook processing systems, and database transaction engines.
+- 🛠️ **Production Systems:** Engineered backend APIs and core systems for:
+  - [Cloutra](https://www.cloutra.com) (AI-powered recruitment & video interview platform)
+  - [pawa360](https://www.pawa360.africa) (Utility vending & payment processing engine)
+  - [ApplyQuick](https://www.applyquick.ai) (Application automation infrastructure)
+- 💬 **Ask me about:** Idempotent transaction systems, BullMQ worker queues, row-level DB locking (`SELECT FOR UPDATE`), and multi-service migrations.
+- 💼 **Open to:** Mid / Senior / Lead Backend Engineering opportunities (Go, TypeScript, Java).
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/frank-okezie-obiedere/)
